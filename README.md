@@ -14,11 +14,6 @@
 - Especially excited about opportunities in **game development**.  
 - 3+ years of professional C# experience, eager to apply that knowledge in new and creative contexts.  
 
-## 📊 GitHub Stats
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=bludrgn311&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bludrgn311&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bludrgn311&theme=radical)  
-
 ## 📌 Pinned Projects
 [![Python Network Tester](https://github-readme-stats.vercel.app/api/pin/?username=bludrgn311&repo=python-network-tester&theme=radical)](https://github.com/bludrgn311/python-network-tester)  
 
