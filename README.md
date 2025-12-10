@@ -7,15 +7,16 @@
 
 ## 🌱 Current Focus
 - Reinforcing my expertise in **C#/.NET Core**.  
-- Expanding into **game development** and creative coding projects.  
+- Expanding into **game development** and creative coding projects.
 
-## 🤝 Collaboration
-- Open to working on **C#**, **GDScript**, and **web development** projects.  
-- Especially excited about opportunities in **game development**.  
-- 3+ years of professional C# experience, eager to apply that knowledge in new and creative contexts.  
-
-## 📌 Pinned Projects
-[Python Network Tester](https://github.com/bludrgn311/python-network-tester)  
+## 📚 Currently Learning
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C%23%20/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"></td>
+  </tr>
+</table> 
 
 ## 🛠 Tech Stack
 
@@ -61,6 +62,3 @@
     <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></td>
   </tr>
 </table>
-
-## 📫 Get in Touch
-- Reach me via [Twitter](your-link-here) — always happy to connect with fellow developers and creators!  
