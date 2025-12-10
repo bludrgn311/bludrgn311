@@ -15,7 +15,7 @@
 - 3+ years of professional C# experience, eager to apply that knowledge in new and creative contexts.  
 
 ## 📌 Pinned Projects
-[![Python Network Tester](https://github-readme-stats.vercel.app/api/pin/?username=bludrgn311&repo=python-network-tester&theme=radical)](https://github.com/bludrgn311/python-network-tester)  
+[Python Network Tester](https://github.com/bludrgn311/python-network-tester)  
 
 ## 🛠 Tech Stack
 
